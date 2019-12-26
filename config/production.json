@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://ana123:ana123@cluster0-5g64s.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "c92058051c2abff517ac",
+    "gitHubSecret": "e1ef9c8dd72d7df906deb7e67656823239647b6a"
+  }
+  
