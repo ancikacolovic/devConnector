@@ -37,4 +37,5 @@ const App = () => {
     </Provider>
 )};
 
+// Added COMMENT
 export default App;
